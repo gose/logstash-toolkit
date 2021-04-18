@@ -1,0 +1,8 @@
+.DS_Store
+*.swp
+*.bak
+*.orig
+*.dump
+*.keystore
+dead_letter_queue
+tmp
