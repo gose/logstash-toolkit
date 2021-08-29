@@ -1,7 +1,7 @@
-dead_letter_queue.enable: true
-dead_letter_queue.flush_interval: 5000
-dead_letter_queue.max_bytes: "100mb"
-path.dead_letter_queue: "dead_letter_queue"
+#dead_letter_queue.enable: true
+#dead_letter_queue.flush_interval: 5000
+#dead_letter_queue.max_bytes: "100mb"
+#path.dead_letter_queue: "dead_letter_queue"
 
 # xpack.monitoring.enabled: true
 # xpack.monitoring.elasticsearch.hosts: [ "${ES_CLOUD_HOSTNAME" ]
